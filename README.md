@@ -1,4 +1,4 @@
-# git-utilities
+# Git Utils (Utilities)
 A repo containing helpful git utilities.
 
 To run the setup, run the following for either basic or advanced (works in linux and git bash).
